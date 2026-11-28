@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M908",
- "repo": "MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector",
+ "repo": "MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector",
  "title": "Dual Stereo Line Selector",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

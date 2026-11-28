@@ -114,7 +114,7 @@ PhotoScan by Google Photos
 
 ```json
 {
- "file": "Modules/UNSORTED/M908/MANUALS/19xx - M908 - DOC - File_044.png",
+ "file": "Modules/RENAISSANCE/M908/MANUALS/19xx - M908 - DOC - File_044.png",
  "sha256": "6f7ee9de075ca28ebec4ad48a323197170dedb7f44f3d0c32afec47da5e7c315",
  "kind": "doc",
  "models": [

@@ -126,7 +126,7 @@ DUAL(1OX2)  INPUT SELECT MODULE SCALE DISC_NO: 4493002 ISSUE 908-03-001 CODE: Dd
 
 ```json
 {
- "file": "Modules/UNSORTED/M908/MANUALS/19xx - M908 - DOC - WBSps.ca 20210319.jpg",
+ "file": "Modules/RENAISSANCE/M908/MANUALS/19xx - M908 - DOC - WBSps.ca 20210319.jpg",
  "sha256": "aaef47394a7a41c7f34a12e71727f4fcecc07fdeec75b03455090cacd4818c04",
  "kind": "doc",
  "models": [
