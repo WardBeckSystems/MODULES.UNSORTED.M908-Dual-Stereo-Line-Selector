@@ -1,6 +1,6 @@
 # M908 Dual Stereo Line Selector · Renaissance
 
-Ward-Beck Systems M908, 1993|26. Wiki page: [M908 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M908.html)
+Ward-Beck Systems M908, 1993|26. Wiki page: [M908 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector/)
 
 | Folder | What is in it | Files |
 |---|---|---|
