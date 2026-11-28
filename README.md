@@ -33,6 +33,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1P-JNva_RdKrrIPAxaREbKSvbmNR9Kvpq/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1P-JNva_RdKrrIPAxaREbKSvbmNR9Kvpq" width="240" alt="1996 - M908 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"></a><br><sub>1996|29 · DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA · <a href="MECHANICAL/1996%20-%20M908%20-%20DOC%20-%20960208-04-001%20-%20LAADEODE%20MUTE%20STUDIO%20TAMOURKERO%20VOHNCA%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M908.stl`](MECHANICAL/M908.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M908)
+
+- **Size:** 41 × 425.58 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 22 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M908 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M908.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
