@@ -1,16 +1,15 @@
-# M908 Dual Stereo Line Selector · Unsorted
+# M908 Dual Stereo Line Selector · Renaissance
 
 Ward-Beck Systems M908, 1993|26. Wiki page: [M908 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M908.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 79 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 11 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 80 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 10 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 35 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -70,7 +69,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1994 - M908 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE.kicad_sch](KICAD/1994%20-%20M908%20-%20DOC%20-%20940446-01-001%20-%20CALLY%20INTEGRATED%20INTO%20THE%20CONSOLE.kicad_sch)
 - [1994 - M908 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.kicad_sch](KICAD/1994%20-%20M908%20-%20DOC%20-%2094064-01-006%20-%20DUAL%20STEREO%20LINE%20SELECTOR%20WHICH%20ARE%20PROVIDED.kicad_sch)
 - [M908.kicad_sym](KICAD/M908.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
